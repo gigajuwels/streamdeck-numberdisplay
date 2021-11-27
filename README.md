@@ -1,3 +1,5 @@
+# THIS IS A WORK IN PROGRESS 
+I forked this so I can't hide anything :( I'll update it later
 
 `NumberDisplay` is a sample plugin demonstrating the [Stream Deck SDK](https://developer.elgato.com/documentation/stream-deck/).
 
